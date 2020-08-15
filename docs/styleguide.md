@@ -1,4 +1,5 @@
 # Style Guide
+The GitHub style guide includes documentation on design, branding, and code implementation. Its goal is to help maintain consistency in both our internal design and development processes, as well as the outward presentation of our products and communications.
 
 From the GitHub Manual of Style, which this style guide inherits from:
 
